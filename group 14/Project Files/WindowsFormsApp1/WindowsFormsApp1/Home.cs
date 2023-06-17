@@ -104,5 +104,10 @@ namespace WindowsFormsApp1
             Application.Exit();
             // MessageBox.Show("VitaMind Hospital\nVersion 1.0v", "Vitamind Hopital", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

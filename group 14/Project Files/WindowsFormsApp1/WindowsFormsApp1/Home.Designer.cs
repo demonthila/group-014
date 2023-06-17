@@ -259,11 +259,12 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 28.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
-            this.label1.Location = new System.Drawing.Point(297, 9);
+            this.label1.Location = new System.Drawing.Point(303, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(319, 54);
+            this.label1.Size = new System.Drawing.Size(483, 54);
             this.label1.TabIndex = 20;
-            this.label1.Text = "Thila Hospital";
+            this.label1.Text = "SWASETHA Hospital";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // Form1
             // 

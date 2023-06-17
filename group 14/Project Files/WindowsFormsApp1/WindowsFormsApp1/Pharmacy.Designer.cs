@@ -151,9 +151,9 @@ namespace WindowsFormsApp1
             this.label1.Location = new System.Drawing.Point(60, 48);
             this.label1.Name = "label1";
             this.label1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.label1.Size = new System.Drawing.Size(313, 72);
+            this.label1.Size = new System.Drawing.Size(351, 72);
             this.label1.TabIndex = 23;
-            this.label1.Text = "ThilaMind Pharmacy \r\nManagement System\r\n";
+            this.label1.Text = "SWASETHA Pharmacy \r\nManagement System\r\n";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
@@ -169,7 +169,7 @@ namespace WindowsFormsApp1
             this.Controls.Add(this.guna2GradientButton1);
             this.Controls.Add(this.guna2GradientButton5);
             this.Controls.Add(this.pictureBox1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Pharmacy";
             this.Text = "Pharmacy";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Pharmacy_FormClosing);
