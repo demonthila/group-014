@@ -300,3 +300,27 @@ C:\Users\demon\OneDrive\Desktop\supiri project raviya\Project\Project Files\Wind
 C:\Users\demon\OneDrive\Desktop\supiri project raviya\Project\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\demon\OneDrive\Desktop\supiri project raviya\Project\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\demon\OneDrive\Desktop\supiri project raviya\Project\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\demon\Source\Repos\group-014\group 14\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\demon\Source\Repos\group-014\group 14\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\demon\Source\Repos\group-014\group 14\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\demon\Source\Repos\group-014\group 14\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Appoinment.resources
+C:\Users\demon\Source\Repos\group-014\group 14\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Billing.resources
+C:\Users\demon\Source\Repos\group-014\group 14\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ForgotPassword.resources
+C:\Users\demon\Source\Repos\group-014\group 14\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.help.resources
+C:\Users\demon\Source\Repos\group-014\group 14\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.payment.resources
+C:\Users\demon\Source\Repos\group-014\group 14\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Medi_Information.resources
+C:\Users\demon\Source\Repos\group-014\group 14\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\demon\Source\Repos\group-014\group 14\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PatientHistory.resources
+C:\Users\demon\Source\Repos\group-014\group 14\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PatientRecords.resources
+C:\Users\demon\Source\Repos\group-014\group 14\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pharmacy.resources
+C:\Users\demon\Source\Repos\group-014\group 14\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pharmacy_Office.resources
+C:\Users\demon\Source\Repos\group-014\group 14\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Prescriptions.resources
+C:\Users\demon\Source\Repos\group-014\group 14\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Rooms.resources
+C:\Users\demon\Source\Repos\group-014\group 14\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SignUp.resources
+C:\Users\demon\Source\Repos\group-014\group 14\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\demon\Source\Repos\group-014\group 14\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DoctorRecords.resources
+C:\Users\demon\Source\Repos\group-014\group 14\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\demon\Source\Repos\group-014\group 14\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\demon\Source\Repos\group-014\group 14\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\demon\Source\Repos\group-014\group 14\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\demon\Source\Repos\group-014\group 14\Project Files\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
