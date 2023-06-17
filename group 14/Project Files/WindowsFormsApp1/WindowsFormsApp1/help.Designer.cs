@@ -244,9 +244,9 @@
             this.label26.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label26.Location = new System.Drawing.Point(87, 53);
             this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(120, 20);
+            this.label26.Size = new System.Drawing.Size(189, 20);
             this.label26.TabIndex = 13;
-            this.label26.Text = "Ms. Jane Sens";
+            this.label26.Text = "Ms. ashani kaluarachchi";
             // 
             // guna2Panel8
             // 
@@ -295,9 +295,9 @@
             this.label22.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label22.Location = new System.Drawing.Point(87, 53);
             this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(130, 20);
+            this.label22.Size = new System.Drawing.Size(138, 20);
             this.label22.TabIndex = 13;
-            this.label22.Text = "Ms. Shara Danz";
+            this.label22.Text = "Mr. Sanjula thilan";
             // 
             // guna2CirclePictureBox3
             // 
